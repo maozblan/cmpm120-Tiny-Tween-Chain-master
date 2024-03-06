@@ -1,6 +1,6 @@
 // Code Practice: Tiny Tween Chain
-// Name:
-// Date:
+// Name: Lyssa Li
+// Date: 2024 03 06
 
 // CODE ARMOR
 'use strict'
